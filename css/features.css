@@ -1,0 +1,22 @@
+.features h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.feature-item h3 {
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em; /* Додано за вимогою */
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.feature-item p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em; /* Додано за вимогою */
+  color: #434455;
+}

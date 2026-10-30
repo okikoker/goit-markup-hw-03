@@ -1,0 +1,23 @@
+.section-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+  color: #2e2f42;
+  text-align: center; /* Додали центрування заголовка портфоліо */
+}
+
+.portfolio-name {
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.portfolio-type {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
